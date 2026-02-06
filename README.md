@@ -5,9 +5,7 @@
   <title>Dự án xây dựng sân cầu lông</title>
 
   <style>
-    html {
-      scroll-behavior: smooth;
-    }
+    html { scroll-behavior: smooth; }
 
     body {
       font-family: Arial, Helvetica, sans-serif;
@@ -18,7 +16,7 @@
     }
 
     header {
-      background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+      background: rgba(0,0,0,0.55);
       color: white;
       padding: 40px 20px;
       text-align: center;
@@ -26,8 +24,8 @@
 
     header img {
       width: 90px;
-      margin-bottom: 10px;
       border-radius: 50%;
+      margin-bottom: 10px;
     }
 
     nav {
@@ -43,10 +41,6 @@
       font-weight: bold;
     }
 
-    nav a:hover {
-      text-decoration: underline;
-    }
-
     .container {
       max-width: 1000px;
       margin: auto;
@@ -54,13 +48,11 @@
       animation: fadeIn 1s ease;
     }
 
-    h2 {
-      color: #d81b60;
-    }
+    h2 { color: #d81b60; }
 
     .image-row {
       display: flex;
-      gap: 15px;
+      gap: 20px;
       flex-wrap: wrap;
       justify-content: center;
       margin: 20px 0;
@@ -71,11 +63,6 @@
       max-width: 420px;
       border-radius: 12px;
       box-shadow: 0 6px 12px rgba(0,0,0,0.3);
-      transition: transform 0.3s;
-    }
-
-    .image-row img:hover {
-      transform: scale(1.05);
     }
 
     footer {
@@ -117,7 +104,7 @@
 <body>
 
 <header>
-  <img src="https://sf-static.upanhlaylink.com/img/image_202602056aae233299bb7d3658a53e8eec6904f0.jpg" alt="Logo cầu lông">
+  <img src="https://sf-static.upanhlaylink.com/img/image_202602056aae233299bb7d3658a53e8eec6904f0.jpg">
   <h1>DỰ ÁN XÂY DỰNG SÂN CẦU LÔNG</h1>
   <p>Công trình thể thao xanh – hiện đại – bền vững</p>
   <p>HỌC HẾT GA – CHƠI HẾT MÌNH</p>
@@ -137,7 +124,7 @@
     <h2>Giới thiệu công trình</h2>
     <p>
       Dự án xây dựng sân cầu lông nhằm tạo môi trường luyện tập và thi đấu
-      hiện đại, an toàn, thân thiện với môi trường, góp phần nâng cao sức khỏe học sinh.
+      hiện đại, an toàn, góp phần nâng cao sức khỏe học sinh.
     </p>
   </section>
 
@@ -153,14 +140,22 @@
 
   <section id="hinhanh">
     <h2>Hình ảnh minh họa</h2>
+
     <div class="image-row">
       <div>
         <img src="https://sf-static.upanhlaylink.com/img/image_202602050460f8a4d07394f9dcb69278aa171000.jpg">
-        <p style="text-align:center;font-style:italic;">Hình 1: Sơ đồ sân cầu lông tiêu chuẩn.</p>
+        <p style="text-align:center;font-style:italic;">
+          Hình 1: Sơ đồ sân cầu lông tiêu chuẩn – thể hiện kích thước, vạch kẻ
+          và khu vực thi đấu theo quy định.
+        </p>
       </div>
+
       <div>
         <img src="https://sf-static.upanhlaylink.com/img/image_20260205864d02e081960e144070c628e949502c.jpg">
-        <p style="text-align:center;font-style:italic;">Hình 2: Sân cầu lông ngoài trời.</p>
+        <p style="text-align:center;font-style:italic;">
+          Hình 2: Mô hình sân cầu lông ngoài trời – không gian thoáng mát,
+          phù hợp cho hoạt động thể thao học đường.
+        </p>
       </div>
     </div>
   </section>
@@ -169,6 +164,10 @@
     <h2>Thành viên nhóm</h2>
     <ul>
       <li>Duy Khang</li>
+      <li>Thu Ngân</li>
+      <li>Bích Trâm</li>
+      <li>Thảo Vy</li>
+      <li>Quỳnh My</li>
     </ul>
   </section>
 
