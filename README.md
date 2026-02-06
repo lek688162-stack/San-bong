@@ -131,3 +131,49 @@ Dự án xây dựng sân cầu lông được thực hiện nhằm tạo ra mô
   <section id="muctieu">
     <h2>Mục tiêu dự án</h2>
     <ul>
+    <li>Xây dựng sân cầu lông đạt tiêu chuẩn</li>
+      <li>Phát triển phong trào thể thao học đường</li>
+      <li>Tạo sân chơi lành mạnh</li>
+      <li>Nâng cao thể chất học sinh</li>
+    </ul>
+  </section>
+
+  <section id="hinhanh">
+    <h2>Hình ảnh minh họa</h2>
+
+    <div class="image-row">
+
+      <div>
+        <img src="https://sf-static.upanhlaylink.com/img/image_202602050460f8a4d07394f9dcb69278aa171000.jpg">
+        <p style="text-align:center;font-style:italic;">
+          Hình 1: Sơ đồ sân cầu lông tiêu chuẩn.
+        </p>
+      </div>
+
+      <div>
+        <img src="https://sf-static.upanhlaylink.com/img/image_20260205864d02e081960e144070c628e949502c.jpg">
+        <p style="text-align:center;font-style:italic;">
+          Hình 2: Sân cầu lông ngoài trời.
+        </p>
+      </div>
+<li>Duy Khang</li>
+    </ul>
+  </section>
+
+</div>
+
+<footer>
+  <p>© 2026 | Dự án sân cầu lông | Nhóm 12C6</p>
+</footer>
+<hr>
+<!-- Link Facebook -->
+    <a class="fb-link"
+       href="https://www.facebook.com/share/1FfT2nC8YT/?mibextid=wwXIfr"
+       target="_blank">
+       •Xem CLB trên Facebook•
+    </a>
+
+</body>
+</html>
+<a href="tel:0832688426" class="chat-bubble">
+  📞 0359447903
